@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.h5
+pneumonia/
+brain_tumor/
+ct_scan/
+tb/
+mri/
